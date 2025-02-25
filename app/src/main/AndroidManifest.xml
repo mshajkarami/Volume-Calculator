@@ -13,7 +13,7 @@
         android:theme="@style/Theme.VolumeCalculator"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity2"
+            android:name=".SphereActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
